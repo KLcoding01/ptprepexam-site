@@ -1,0 +1,15 @@
+title: PT Board Prep
+description: AI-powered NPTE prep for student physical therapists.
+url: https://ptprepexam.online
+theme: jekyll-theme-minimal
+permalink: /:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - .gitignore
