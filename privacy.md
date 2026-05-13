@@ -338,13 +338,13 @@ This Policy does not limit any non-waivable rights you may have under the mandat
 
 If you have questions, concerns, or requests relating to this Policy or your personal information, please contact us at:
 
-**[Corporate Legal Name]**
-d/b/a PT Board Prep
-Attn: Kelvin Lam
-1882 N Coret Pl
-Anaheim, CA 92807
-United States
-**Email:** support@ptprepexam.online
+**[Corporate Legal Name]**  
+d/b/a PT Board Prep  
+Attn: Kelvin Lam  
+1882 N Coret Pl  
+Anaheim, CA 92807  
+United States  
+**Email:** support@ptprepexam.online  
 **Website:** https://ptprepexam.online
 
 We aim to respond to all privacy inquiries within thirty (30) days of receipt, or such shorter period as is required by applicable law.
