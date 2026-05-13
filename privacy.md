@@ -13,7 +13,7 @@ permalink: /privacy/
 
 ## 1. Introduction
 
-This Privacy Policy ("**Policy**") describes how **[Corporate Legal Name]**, a California corporation that has elected to be taxed under Subchapter S of the United States Internal Revenue Code, doing business as PT Board Prep ("**PT Board Prep**," "**Company**," "**we**," "**us**," or "**our**"), collects, uses, discloses, retains, and protects personal information when you ("**you**" or "**User**") access or use the PT Board Prep mobile application for iOS (the "**App**") and any related services, websites, or features that link to this Policy (collectively, the "**Services**"). The Company is owned and operated by Kelvin Lam.
+This Privacy Policy ("**Policy**") describes how **Kelvin Lam Physical Therapy Inc.**, a California corporation that has elected to be taxed under Subchapter S of the United States Internal Revenue Code, doing business as PT Board Prep ("**PT Board Prep**," "**Company**," "**we**," "**us**," or "**our**"), collects, uses, discloses, retains, and protects personal information when you ("**you**" or "**User**") access or use the PT Board Prep mobile application for iOS (the "**App**") and any related services, websites, or features that link to this Policy (collectively, the "**Services**"). The Company is owned and operated by Kelvin Lam.
 
 By creating an account, downloading, installing, or otherwise using the Services, you acknowledge that you have read, understood, and agree to the practices described in this Policy. If you do not agree, do not use the Services.
 
@@ -25,7 +25,7 @@ This Policy is incorporated by reference into our Terms of Service.
 
 | | |
 |---|---|
-| **Operator (Data Controller)** | [Corporate Legal Name], a California S-corporation d/b/a PT Board Prep (owned and operated by Kelvin Lam) |
+| **Operator (Data Controller)** | Kelvin Lam Physical Therapy Inc., a California S-corporation d/b/a PT Board Prep (owned and operated by Kelvin Lam) |
 | **Business Address** | 1882 N Coret Pl, Anaheim, CA 92807, United States |
 | **Email (Privacy Inquiries)** | support@ptprepexam.online |
 | **Website** | https://ptprepexam.online |
@@ -338,7 +338,7 @@ This Policy does not limit any non-waivable rights you may have under the mandat
 
 If you have questions, concerns, or requests relating to this Policy or your personal information, please contact us at:
 
-**[Corporate Legal Name]**  
+**Kelvin Lam Physical Therapy Inc.**  
 d/b/a PT Board Prep  
 Attn: Kelvin Lam  
 1882 N Coret Pl  
@@ -351,4 +351,4 @@ We aim to respond to all privacy inquiries within thirty (30) days of receipt, o
 
 ---
 
-*PT Board Prep is operated by [Corporate Legal Name], a California corporation taxed as an S-corporation under Subchapter S of the United States Internal Revenue Code, owned and operated by Kelvin Lam. NPTE® is a registered trademark of the Federation of State Boards of Physical Therapy and is used in this Policy only for descriptive, nominative purposes.*
+*PT Board Prep is operated by Kelvin Lam Physical Therapy Inc., a California corporation taxed as an S-corporation under Subchapter S of the United States Internal Revenue Code, owned and operated by Kelvin Lam. NPTE® is a registered trademark of the Federation of State Boards of Physical Therapy and is used in this Policy only for descriptive, nominative purposes.*
