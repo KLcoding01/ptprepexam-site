@@ -26,7 +26,7 @@ This Policy is incorporated by reference into our Terms of Service.
 | | |
 |---|---|
 | **Operator (Data Controller)** | Kelvin Lam Physical Therapy Inc., a California S-corporation d/b/a PT Board Prep (owned and operated by Kelvin Lam) |
-| **Business Address** | 1882 N Coret Pl, Anaheim, CA 92807, United States |
+| **Business Address** | 1882 N Cornet Pl, Anaheim, CA 92807, United States |
 | **Email (Privacy Inquiries)** | support@ptprepexam.online |
 | **Website** | https://ptprepexam.online |
 | **App** | PT Board Prep (iOS), bundle identifier `com.kelvinlam.ptprepexam` |
@@ -341,7 +341,7 @@ If you have questions, concerns, or requests relating to this Policy or your per
 **Kelvin Lam Physical Therapy Inc.**  
 d/b/a PT Board Prep  
 Attn: Kelvin Lam  
-1882 N Coret Pl  
+1882 N Cornet Pl  
 Anaheim, CA 92807  
 United States  
 **Email:** support@ptprepexam.online  
